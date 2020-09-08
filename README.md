@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-<img src="images/screenshot_1.png?raw=true" alt="Screenshot 1" height="500"> <img src="images/screenshot_2.png?raw=true" alt="Screenshot 2" height="500">
+<img src="images/screenshot_1.png?raw=true" alt="Screenshot 1" height="100%"> <img src="images/screenshot_2.png?raw=true" alt="Screenshot 2" height="100%">
 
 
 ----
